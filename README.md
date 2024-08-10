@@ -4,7 +4,7 @@
 
 This project is all about Mental Health,it shows how important is to look after your mental health
 and shows some easy ways to maintain and improve your mental health. 
-[Project Link](https://github.com/udaykiran1612/Breath_mental-health-support)
+[Project Link]((https://github.com/Sreedhar9392/breath-mentalhealth)
 
 This project is done for "LAYER 0 HACKATHON" hosted by [BLOCKCHAIN SRM AND GENY SRM](https://discord.gg/XwAF4UGD).
 
